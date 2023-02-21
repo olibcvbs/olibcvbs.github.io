@@ -322,6 +322,16 @@
 <p style='margin:0cm;font-size:16px;font-family:"Liberation Serif",serif;margin-top:6.25pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:6.25pt;'><strong><span style='font-size:12px;font-family:"Helvetica",sans-serif;color:#949494;'>Speaker 1</span></strong><span style='font-size:12px;font-family:"Helvetica",sans-serif;color:#949494;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><a href="https://grain.com/share/recording/0b4b5e0d-5a13-4993-98f4-c54f598b3788/RIbLUErC111Say3ySOVsV3CUsNhjB8SISBAO4CZB?referrer=docx&t=3458070"><span style='font-size:12px;font-family:"Helvetica",sans-serif;color:#949494;'>57:38</span></a></p>
 <p style='margin:0cm;font-size:16px;font-family:"Liberation Serif",serif;margin-top:2.5pt;margin-right:0cm;margin-bottom:6.25pt;margin-left:12.5pt;'><span style='font-size:12px;font-family:"Helvetica",sans-serif;color:black;'>system performance, system quality system reliability they have achieved. So just as sales teams are saying we managed to get 98% of our target this month, the systems people should be able to say, Look, our mobile app is scoring 4.6 outta five on the app store. It, it works on our 99% of the time. It works in under 1.3 seconds. So like everyone&apos;s holding each other to accounts and, and has a voice in those meetings.</span></p>
 
+
+
+
+
+
+
+
+
+
+
 <p style='margin:0cm;font-size:16px;font-family:"Liberation Serif",serif;margin-top:5.0pt;margin-right:0cm;margin-bottom:3.75pt;margin-left:0cm;'><span style='font-size:15px;font-family:"Helvetica",sans-serif;color:black;'>Transcript 2: CEO Fintech Boost: Cadences</span></p>
 <p style='margin:0cm;font-size:16px;font-family:"Liberation Serif",serif;margin-top:6.25pt;margin-right:0cm;margin-bottom:2.5pt;margin-left:6.25pt;'><strong><span style='font-size:12px;font-family:"Helvetica",sans-serif;color:#949494;'>Speaker 1</span></strong><span style='font-size:12px;font-family:"Helvetica",sans-serif;color:#949494;'>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span><a href="https://grain.com/share/recording/5d4b007d-566f-4a56-ae60-d831981522c0/8wfcWtksOPQS3quoNLKFhTGfhvIa5eQYbBuapFpV?referrer=docx&t=8970"><span style='font-size:12px;font-family:"Helvetica",sans-serif;color:#949494;'>0:08</span></a></p>
 <p style='margin:0cm;font-size:16px;font-family:"Liberation Serif",serif;margin-top:2.5pt;margin-right:0cm;margin-bottom:6.25pt;margin-left:12.5pt;'><span style='font-size:12px;font-family:"Helvetica",sans-serif;color:black;'>Conversational than we did last time. I put that one as well as everyone&apos;s very experiences and cover off some of the Cadence stuff we didn&apos;t get to last time because we had a great conversation and to do that I picked out a load of artifacts for you doesn&apos;t mean a bar but I didn&apos;t do well. But I will say how everyone&apos;s doing, Cadences? And then I shared the stuff of BizOps, which I think you end up with your cheapest stuff anyway. Just talk how everyone is doing.</span></p>
