@@ -1,90 +1,15 @@
-[<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!--
-Created with Free Online Sitemap Generator www.countingcharacters.com/xml-sitemap-generator
--->
-<url>
-      <loc>https://grain.com/share/recording/0b4b5e0d-5a13-4993-98f4-c54f598b3788/RIbLUErC111Say3ySOVsV3CUsNhjB8SISBAO4CZB</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-<url>
-      <loc>https://grain.com/share/recording/14dcb24e-45fc-4b60-8970-5994586382e4/xqj4cNsSY0BYqLRieqCJ1bLPAf25YuR0AAHuJ6wV</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-<url>
-      <loc>https://grain.com/share/recording/8cae6a0b-6791-4886-ba52-d72552973c3a/3n1EdR8cLOWOys1RNnrNEAmaiDR4QzPddr55MzXw?dialog=share-recording</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-<url>
-      <loc>https://grain.com/share/recording/d2ce32d7-282f-4ced-90d5-c18afe7db247/q1iL2603MkW2iBlgK89tzPpjvroVqasZkXJ8Bmgu?dialog=share-recording</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-<url>
-      <loc>https://grain.com/share/recording/14dcb24e-45fc-4b60-8970-5994586382e4/xqj4cNsSY0BYqLRieqCJ1bLPAf25YuR0AAHuJ6wV?dialog=share-recording</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-<url>
-      <loc>https://grain.com/share/recording/fac024e1-226b-4350-9a1a-b069a48f109b/clruSGBC4DiHeEZQr86mxl1AOhhGpCzwSioTNOSN?dialog=share-recording</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-<url>
-      <loc>https://grain.com/share/recording/cbe04ed0-0391-4fdf-9170-3e9183a177ab/Gm4vUhysBAKmfTAOl7CDwVAjQtBcddLaMW6Y47kw?dialog=share-recording</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-<url>
-      <loc>https://grain.com/share/recording/13ccc49f-4dfd-4e3e-b6df-c9c0300b162f/CuQnQ9CjN3KjknEzTadjYEknvEyPtXQLm8OljHsi</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-<url>
-      <loc>https://grain.com/share/recording/13ccc49f-4dfd-4e3e-b6df-c9c0300b162f/CuQnQ9CjN3KjknEzTadjYEknvEyPtXQLm8OljHsi</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-<url>
-      <loc>https://grain.com/share/recording/5d4b007d-566f-4a56-ae60-d831981522c0/8wfcWtksOPQS3quoNLKFhTGfhvIa5eQYbBuapFpV</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-<url>
-      <loc>https://grain.com/share/recording/5d4b007d-566f-4a56-ae60-d831981522c0/8wfcWtksOPQS3quoNLKFhTGfhvIa5eQYbBuapFpV</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-<url>
-      <loc>https://grain.com/share/recording/344cd553-6b7d-426b-b140-ce378577d08e/ofkZOxQtaahFEpq5l2E676ccgoPiTCzKOBsTkHpi</loc>
-      <lastmod>2023-02-21</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>1</priority>
-</url>
-</urlset>
-](https://grain.com/share/recording/0b4b5e0d-5a13-4993-98f4-c54f598b3788/RIbLUErC111Say3ySOVsV3CUsNhjB8SISBAO4CZB
-https://grain.com/share/recording/14dcb24e-45fc-4b60-8970-5994586382e4/xqj4cNsSY0BYqLRieqCJ1bLPAf25YuR0AAHuJ6wV
-https://grain.com/share/recording/8cae6a0b-6791-4886-ba52-d72552973c3a/3n1EdR8cLOWOys1RNnrNEAmaiDR4QzPddr55MzXw?dialog=share-recording
-https://grain.com/share/recording/d2ce32d7-282f-4ced-90d5-c18afe7db247/q1iL2603MkW2iBlgK89tzPpjvroVqasZkXJ8Bmgu?dialog=share-recording
-https://grain.com/share/recording/14dcb24e-45fc-4b60-8970-5994586382e4/xqj4cNsSY0BYqLRieqCJ1bLPAf25YuR0AAHuJ6wV?dialog=share-recording
-https://grain.com/share/recording/fac024e1-226b-4350-9a1a-b069a48f109b/clruSGBC4DiHeEZQr86mxl1AOhhGpCzwSioTNOSN?dialog=share-recording
-https://grain.com/share/recording/cbe04ed0-0391-4fdf-9170-3e9183a177ab/Gm4vUhysBAKmfTAOl7CDwVAjQtBcddLaMW6Y47kw?dialog=share-recording
-https://grain.com/share/recording/13ccc49f-4dfd-4e3e-b6df-c9c0300b162f/CuQnQ9CjN3KjknEzTadjYEknvEyPtXQLm8OljHsi
-https://grain.com/share/recording/13ccc49f-4dfd-4e3e-b6df-c9c0300b162f/CuQnQ9CjN3KjknEzTadjYEknvEyPtXQLm8OljHsi
-https://grain.com/share/recording/5d4b007d-566f-4a56-ae60-d831981522c0/8wfcWtksOPQS3quoNLKFhTGfhvIa5eQYbBuapFpV
-https://grain.com/share/recording/5d4b007d-566f-4a56-ae60-d831981522c0/8wfcWtksOPQS3quoNLKFhTGfhvIa5eQYbBuapFpV
-https://grain.com/share/recording/344cd553-6b7d-426b-b140-ce378577d08e/ofkZOxQtaahFEpq5l2E676ccgoPiTCzKOBsTkHpi)
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML Links for Scraper</title>
+</head>
+<body>
+	<h1>HTML Links for Scraper</h1>
+	<p>Here are some links for the scraper to scrape:</p>
+	<ul>
+		<li><a href="https://grain.com/share/recording/0b4b5e0d-5a13-4993-98f4-c54f598b3788/RIbLUErC111Say3ySOVsV3CUsNhjB8SISBAO4CZB">Transcript 1</a></li>
+		<li><a href="https://grain.com/share/recording/14dcb24e-45fc-4b60-8970-5994586382e4/xqj4cNsSY0BYqLRieqCJ1bLPAf25YuR0AAHuJ6wV">Transcript 2</a></li>
+		<li><a href="https://grain.com/share/recording/8cae6a0b-6791-4886-ba52-d72552973c3a/3n1EdR8cLOWOys1RNnrNEAmaiDR4QzPddr55MzXw?dialog=share-recording">Transcript 3</a></li>
+	</ul>
+</body>
+</html>
